@@ -4,7 +4,7 @@ import { Download, FileText, BookOpen, AlertOctagon, ShieldAlert, Award, Externa
 export const ProspectusView: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'reader' | 'conduct' | 'disciplinary' | 'hyderabad'>('reader');
 
-  const prospectusPdfUrl = "/public/assets/aistudio/Prospectus_Nursing_25-26_7a7c6e86.pdf";
+  const prospectusPdfUrl = "/assets/aistudio/Prospectus_Nursing_25-26_7a7c6e86.pdf";
 
   return (
     <section className="py-12 px-4 md:px-8">

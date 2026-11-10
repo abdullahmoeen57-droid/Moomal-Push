@@ -18,7 +18,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAdmin, onNavigate }) => {
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
+                src="/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
                 alt="Moomal Group Crest"
                 className="w-12 h-12 object-contain rounded-md bg-white p-1"
                 referrerPolicy="no-referrer"

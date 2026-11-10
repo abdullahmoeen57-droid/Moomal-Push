@@ -80,7 +80,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenAdmin }) => {
           className="flex items-center gap-3 text-left focus:outline-hidden group shrink-0"
         >
           <img
-            src="/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
+            src="/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
             alt="Moomal Group of Colleges Crest"
             className="w-11 h-11 object-contain rounded-md shadow-xs group-hover:scale-105 transition-transform"
             referrerPolicy="no-referrer"

@@ -50,7 +50,7 @@ export const PopupAdvertisement: React.FC<PopupAdvertisementProps> = ({ onApplyC
         <div className="p-6">
           <div className="flex items-center gap-4 mb-4">
             <img
-              src={popupAd.imageUrl || '/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg'}
+              src={popupAd.imageUrl || '/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg'}
               alt="Moomal Group Notice"
               className="w-16 h-16 object-contain rounded-lg border border-slate-100 p-1 shrink-0 bg-slate-50"
               referrerPolicy="no-referrer"

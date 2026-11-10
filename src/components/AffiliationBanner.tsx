@@ -22,7 +22,7 @@ export const AffiliationBanner: React.FC = () => {
           <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 flex flex-col items-center text-center hover:border-slate-300 transition-colors">
             <div className="w-20 h-20 mb-4 bg-white rounded-full p-2 border border-slate-200 shadow-xs flex items-center justify-center">
               <img
-                src="/public/assets/aistudio/PNC.images_8105418d.jpg"
+                src="/assets/aistudio/PNC.images_8105418d.jpg"
                 alt="Pakistan Nursing Council (PNC) Official Seal"
                 className="w-16 h-16 object-contain"
                 referrerPolicy="no-referrer"
@@ -44,7 +44,7 @@ export const AffiliationBanner: React.FC = () => {
           <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 flex flex-col items-center text-center hover:border-slate-300 transition-colors">
             <div className="w-20 h-20 mb-4 bg-white rounded-full p-2 border border-slate-200 shadow-xs flex items-center justify-center">
               <img
-                src="/public/assets/aistudio/Liaquat_University_of_Medical_and_Health_Sciences__crest__c9f1f067.jpg"
+                src="/assets/aistudio/Liaquat_University_of_Medical_and_Health_Sciences__crest__c9f1f067.jpg"
                 alt="Liaquat University of Medical and Health Sciences Crest"
                 className="w-16 h-16 object-contain"
                 referrerPolicy="no-referrer"
@@ -66,7 +66,7 @@ export const AffiliationBanner: React.FC = () => {
           <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 flex flex-col items-center text-center hover:border-slate-300 transition-colors">
             <div className="w-20 h-20 mb-4 bg-white rounded-full p-3 border border-slate-200 shadow-xs flex items-center justify-center">
               <img
-                src="/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
+                src="/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
                 alt="Moomal Group of Colleges Crest"
                 className="w-14 h-14 object-contain"
                 referrerPolicy="no-referrer"

@@ -32,11 +32,11 @@ export const HomeView: React.FC<HomeViewProps> = ({ onNavigate }) => {
               </div>
 
               <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight">
-                Shaping Compassionate Nurses, Empowering Healthcare Leaders.
+                Shang Compassionate Nurses, Empowering Healthcare Leaders.
               </h1>
 
               <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-2xl">
-                Welcome to <strong>Moomal College of Nursing & Allied Health Sciences Hyderabad</strong> (Moomal Group of Colleges). Offering the 4-Year Bachelor of Science in Nursing (BSN) degree program under full recognition by the <strong>Pakistan Nursing Council (PNC)</strong> and academic affiliation with <strong>Liaquat University of Medical and Health Sciences (LUMHS), Jamshoro</strong>.
+                Welcome to <strong>Moomal College of Nursing & Allied Health Sciences Hyderabad</strong> (Moomal Group of Colleges). Offering the 4-Year Bachelor of Science in Nursing (BSN) degree program under full recognition by the <strong>pakistan nursing and midwifery council (PNMC)</strong> and academic affiliation with <strong>Liaquat University of Medical and Health Sciences (LUMHS), Jamshoro</strong>.
               </p>
 
               {/* Action Buttons */}
@@ -88,7 +88,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onNavigate }) => {
                 {/* Overlaid Badge */}
                 <div className="absolute bottom-5 left-5 right-5 p-4 rounded-xl bg-slate-900/90 backdrop-blur-md border border-slate-700 flex items-center gap-3">
                   <img
-                    src="/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
+                    src="/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
                     alt="Logo"
                     className="w-10 h-10 object-contain rounded-md bg-white p-1 shrink-0"
                     referrerPolicy="no-referrer"

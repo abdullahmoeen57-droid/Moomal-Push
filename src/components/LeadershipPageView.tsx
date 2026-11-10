@@ -55,9 +55,6 @@ export const LeadershipPageView: React.FC = () => {
             <h2 className="font-serif text-2xl md:text-3xl font-bold text-slate-900">
               Executive Members Council
             </h2>
-            <p className="text-xs text-slate-500 mt-1">
-              As notified in the official admission prospectus 2025–2026 of Moomal Group of Colleges.
-            </p>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 text-xs">

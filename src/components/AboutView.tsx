@@ -47,7 +47,7 @@ export const AboutView: React.FC = () => {
             About Moomal College of Nursing
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-            Formed under the umbrella of <strong>Moomal Education Private Limited (Moomal Group of Colleges)</strong> to fulfill the growing demand for healthcare services in Sindh, providing quality nursing education affiliated with <strong>LUMHS Jamshoro</strong> and recognized by the <strong>Pakistan Nursing Council (PNC)</strong>.
+            Formed under the umbrella of <strong>Moomal Education Private Limited (Moomal Group of Colleges)</strong> to fulfill the growing demand for healthcare services in Sindh, providing quality nursing education affiliated with <strong>LUMHS Jamshoro</strong> and recognized by the <strong>pakistan nursing and midwifery council(PNMC)</strong>.
           </p>
         </motion.div>
       </section>
@@ -156,7 +156,7 @@ export const AboutView: React.FC = () => {
             </div>
           </div>
 
-          {/* Core Values as per PNC */}
+          {/* Core Values as per PNMC */}
           <div className="bg-white border border-slate-200 rounded-3xl p-8 shadow-xs flex flex-col justify-between hover:border-slate-300 transition-colors">
             <div>
               <div className="w-12 h-12 rounded-2xl bg-emerald-50 text-emerald-800 flex items-center justify-center mb-6">

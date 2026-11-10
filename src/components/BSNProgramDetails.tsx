@@ -34,7 +34,7 @@ export const BSNProgramDetails: React.FC<BSNProgramDetailsProps> = ({ onApplyCli
         <div className="bg-slate-900 text-white rounded-3xl p-8 md:p-12 border border-slate-800 shadow-xl relative overflow-hidden">
           <div className="absolute right-0 top-0 bottom-0 w-1/3 opacity-10 pointer-events-none hidden md:block">
             <img
-              src="/public/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
+              src="/assets/aistudio/Moomal_Groups_Of_Colleges_deda5503.jpeg"
               alt="Moomal Crest Watermark"
               className="w-full h-full object-contain"
               referrerPolicy="no-referrer"
@@ -66,7 +66,7 @@ export const BSNProgramDetails: React.FC<BSNProgramDetailsProps> = ({ onApplyCli
             </h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-6">
               A comprehensive 4-year integrated baccalaureate degree program accredited by the{' '}
-              <strong className="text-white">Pakistan Nursing Council (PNC)</strong> and affiliated with the prestigious{' '}
+              <strong className="text-white">pakistan nursing and midwifery council(PNMC)</strong> and affiliated with the prestigious{' '}
               <strong className="text-white">Liaquat University of Medical and Health Sciences (LUMHS), Jamshoro</strong>.
             </p>
 
@@ -125,7 +125,7 @@ export const BSNProgramDetails: React.FC<BSNProgramDetailsProps> = ({ onApplyCli
             </div>
             <h3 className="font-serif text-lg font-bold text-slate-900 mb-2">Clinical Bedside Training</h3>
             <p className="text-xs text-slate-600 leading-relaxed">
-              Clinical attachments at Maajee Hospital, St. Elizabeth Hospital, and Shah Bhittai Govt. Hospital in Hyderabad, covering medical-surgical wards, emergency triage, ICU, and pediatrics.
+              Clinical attachments at Civi Hospital and Shah Bhittai Govt. Hospital in Hyderabad, covering medical-surgical wards, emergency triage, ICU, and pediatrics.
             </p>
           </div>
 
@@ -229,7 +229,7 @@ export const BSNProgramDetails: React.FC<BSNProgramDetailsProps> = ({ onApplyCli
               Eligibility & Entry Requirements
             </h3>
             <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
-              Minimum qualification required under Pakistan Nursing Council (PNC) and LUMHS university statutory policies.
+              Minimum qualification required under pakistan nursing and midwifery council (PNMC) and LUMHS university statutory policies.
             </p>
           </div>
 
